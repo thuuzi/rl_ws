@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/zk/rl_ws/devel/lib/python3/dist-packages",
+        "/home/zk/sim2real-ur-gym-gazebo/devel/lib/python3/dist-packages",
+        "/home/zk/ros_gazebo_gym_ws/devel/lib/python3/dist-packages",
+        "/home/zk/hunter/devel/lib/python3/dist-packages",
+        "/home/zk/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/zk/bipedv5/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/zk/rl_ws/devel/lib/python3/dist-packages",
+        "/home/zk/sim2real-ur-gym-gazebo/devel/lib/python3/dist-packages",
+        "/home/zk/ros_gazebo_gym_ws/devel/lib/python3/dist-packages",
+        "/home/zk/hunter/devel/lib/python3/dist-packages",
+        "/home/zk/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/zk/bipedv5/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
